@@ -11,4 +11,4 @@ print("Area of the circle is :{0}".format(area))
 
 filename=input("Input the Filename:")
 
-print("the extention of file is :"+repr(f_exts[-1]))
+print("the extention of file is :",(f_exts[-1]))
